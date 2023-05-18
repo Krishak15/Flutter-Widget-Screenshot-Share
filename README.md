@@ -1,16 +1,16 @@
-# screenshotshare
+# Widget Screenshot Share
 
-A new Flutter project.
+Flutter code for sharing a specific widget screenshot 
 
-## Getting Started
+## Packages used
 
-This project is a starting point for a Flutter application.
+1) Path Provider
+https://pub.dev/packages/path_provider
 
-A few resources to get you started if this is your first Flutter project:
+2) Share Plus
+https://pub.dev/packages/share_plus
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
